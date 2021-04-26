@@ -1,5 +1,16 @@
 # Hello everyone~👋
 I'm JIANG Chengda, a computer science student at CUHK.
-| What I'm working on | :----: | CSCI3251 Project Milestone 2 |
-| My interested in learning| :----: | 1 |
-| My favorite hobby | :----: | Writting |
+<table>
+    <tr>
+        <td>What I'm working on</td>
+        <td>CSCI3251 Project Milestone 2</td>
+    </tr>
+    <tr>
+        <td>My interested in learning</td>
+        <td>Art</td>
+    </tr>
+    <tr>
+        <td>My favorite hobby</td>
+        <td>Writting</td>
+    </tr>
+</table>
