@@ -1,5 +1,5 @@
 # Hello everyone~👋
-I'm JIANG Chengda, a computer science student at CUHK.
+I'm a student at CUHK.
 <table>
     <tr>
         <td>What I'm working on</td>
